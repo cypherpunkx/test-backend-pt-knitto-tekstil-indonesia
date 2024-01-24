@@ -28,7 +28,7 @@ Untuk soal no. 2 yaitu query database disimpan di folder database/migrations/tes
 Install this app with npm
 
 ```bash
-  git clone
+  git clone https://github.com/cypherpunkx/test-backend-pt-knitto-tekstil-indonesia.git
   npm install
 ```
     
