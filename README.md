@@ -3,6 +3,19 @@
 
 ## Skill Test - Backend Developer
 
+1. Buat program Fizzbuzz dan Palindrome menggunakan Node js dan Typescript. Program tersebut diupload di github dan dikirimkan linknya melalui email. 
+
+2. Download DATABASE classicmodels di website
+https://www.mysqltutorial.org/mysql-sample-database.aspx
+
+a) Buat QUERY untuk menampilkan customerNumber siapa saja yang memesanproductLine Classic Cars dimana total hitung atau COUNT productionline
+tersebut lebih besar dari 23.
+
+b) Silahkan submit jawaban dari soal tersebut ke github dan dikirimkan linknya melalui email.
+
+## Explain
+Untuk soal no. 2 yaitu query database disimpan di folder database/migrations/test-no-2.dm.sql
+
 
 ## Services
 
